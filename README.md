@@ -7,13 +7,13 @@ Retrieves relevant law sections using semantic search
 
 Generates simple, human-readable explanations using Gemini LLM
 
-Reduces hallucinations by grounding responses in official legal documents
+Reduces hallucinations by grounding responses in official legal documents.
 
 Displays source sections for transparency
 
 # Architecture
 **RAG Pipeline Flow:**
-- IPC PDF / Legal Text  
+- IPC PDF/Legal Text  
 - Text Chunking  
 - Embeddings  
 - FAISS Vector Database  
