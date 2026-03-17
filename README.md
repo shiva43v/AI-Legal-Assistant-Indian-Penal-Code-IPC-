@@ -1,7 +1,7 @@
 # AI-Legal-Assistant-Indian-Penal-Code-IPC-
 An AI-powered Legal Assistant built using LangChain and a Retrieval-Augmented Generation (RAG) pipeline to answer queries related to the Indian Penal Code (IPC) with accurate, legally grounded explanations.
 # Features
-Ask natural language questions about IPC sections
+Ask natural language questions about IPC sections.
 
 Retrieves relevant law sections using semantic search
 
